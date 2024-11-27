@@ -1,0 +1,13 @@
+<div class='container'>
+    <div class='row'>
+        <div class='col-3 box'>
+            E1
+        </div>
+        <div class='col-3 box'>
+            E2
+        </div>
+        <div class='col-3 box'>
+            E3
+        </div>
+    </div>
+</div>     
